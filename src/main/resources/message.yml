@@ -1,0 +1,9 @@
+Help:
+- '/pb open - 打开神奇宝贝转换背包'
+AdminHelp:
+- '/pb reload - 重载插件'
+Message:
+  NoPermission: '&3你没有权限: %s%'
+  NeedSlot: '&b你背包需要 %s% 个空槽位才能转换这个神奇宝贝'
+  ConvertEggSuccess: '&b转换为神奇宝贝蛋成功!'
+  ConvertPokemonSuccess: '&b转换为神奇宝贝成功'

@@ -1,0 +1,47 @@
+Prefix: '[PokemonBall]'
+Config:
+  Pokemon:
+    ID: 4436
+    Data: 0
+    Name: '[%displayname%]'
+    Lore:
+      - '&a昵称: %name%'
+      - '&a等级: %level%'
+      - '&a闪光: %shiny%'
+      - '&b----===个体值===----'
+      - '&a攻击个体值: %attack%'
+      - '&a防御个体值: %defence%'
+      - '&a血量个体值: %health%'
+      - '&a特攻个体值: %specialattack%'
+      - '&a特防个体值: %specialdefence%'
+      - '&a速度个体值: %speed%'
+      - '&b----===努力值===----'
+      - '&a攻击努力值: %e_attack%'
+      - '&a防御努力值: %e_defence%'
+      - '&a血量努力值: %e_health%'
+      - '&a特攻努力值: %e_specialattack%'
+      - '&a特防努力值: %e_specialdefence%'
+      - '&a速度努力值: %e_speed%'
+      - '&b----===基础性质===----'
+      - '&a好感度: %friendship%'
+      - '&a体型: %growth%'
+      - '&a性别: %gender%'
+      - '&a性格: %nature%'
+      - '&a特性: %ability%'
+      - '&b----===技能列表===----'
+      - '%skill%'
+  SkillFormat:
+    - '&f技能槽: %skillname%'
+    - '&6> %description%'
+  AsEgg: '&b----===右键点击转换为神奇宝贝蛋===----'
+  AsPokemon: '&b----===在手中右键将其转换神奇宝贝===----'
+Gui:
+  Title: '[精灵背包]'
+  EmptySlot:
+    ID: 166
+    Data: 0
+    Name: '[无精灵]'
+  NotExists:
+    ID: 166
+    Data: 0
+    Name: '[请先收回该槽位的神奇宝贝]'

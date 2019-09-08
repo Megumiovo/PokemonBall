@@ -1,0 +1,10 @@
+name: PokemonBall
+main: com.taylorswiftcn.megumi.pokemonball.PokemonBall
+version: '1.0'
+author: Megumi
+depend:
+  - ProtocolLib
+
+commands:
+  pb:
+    description: show all command
